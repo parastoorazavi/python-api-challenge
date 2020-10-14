@@ -42,7 +42,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 - Narrow down the DataFrame to find your ideal weather condition. For example:
 
 
-A max temperature lower than 80 degrees but higher than 70.
+-- A max temperature lower than 80 degrees but higher than 70.
 
 
 Wind speed less than 10 mph.
