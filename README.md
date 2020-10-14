@@ -41,20 +41,15 @@ Now let's use your skills in working with weather data to plan future vacations.
 - Create a heat map that displays the humidity for every city from the part I of the homework.
 - Narrow down the DataFrame to find your ideal weather condition. For example:
 
+  o A max temperature lower than 80 degrees but higher than 70.
 
--- A max temperature lower than 80 degrees but higher than 70.
+  o Wind speed less than 10 mph.
 
+  o Zero cloudiness.
 
-Wind speed less than 10 mph.
+  o Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
 
-
-Zero cloudiness.
-
-
-Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
-
-
-Note: Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number.
+  o Note: Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number.
 
 
 
