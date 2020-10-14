@@ -1,2 +1,2 @@
-# python-api-challenge
-Coding with Panda and Matplotlib and Python API in Jupiter notebook
+## Python API Homework - What's the Weather Like?
+#Background
